@@ -1,0 +1,197 @@
+[
+    {
+        "agent_image": "assets/images/Agents/Jett_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Jett_Background_Text.png",
+        "agent_animation": "assets/images/animation/jett_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Jett_icon.webp",
+        "agent_name": "Jett",
+        "agent_desc": "Jett, a swift and evasive duelist from South Korea, dominates the battlefield with unmatched agility. Her acrobatic skills and deadly precision make her a formidable opponent.",
+        "agent_realname": "한선우 (Jett)",
+        "agent_home": "South Korea",
+        "agent_role": "Duelist",
+        "agent_codename": "Wushu",
+        "agent_skill": [
+            {"skill": "Updraft (Q)", "logo": "assets/images/Abilities/Property 1=q-Jett_Updraft.png", "desc": "Propel Jett high into the air.", "video": "assets/images/videos/updraft.mp4"},
+            {"skill": "Tailwind (E)", "logo": "assets/images/Abilities/Property 1=e-Jett_Tailwind.png", "desc": "Dash in the direction Jett is moving.", "video": "assets/images/videos/tailwind.mp4"},
+            {"skill": "Cloudburst (C)", "logo": "assets/images/Abilities/Property 1=c-Jett_Cloudburst.png", "desc": "Throw a smoke that blocks vision.", "video": "assets/images/videos/cloudburst.mp4"},
+            {"skill": "Blade Storm (X)", "logo": "assets/images/Abilities/Property 1=x-Jett_Blade_Storm.png", "desc": "Equip deadly throwing knives that recharge on kills.", "video": "assets/images/videos/blade_storm.mp4"}
+        ]
+    },
+    {
+        "agent_image": "assets/images/Agents/Astra_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Astra_Background_Text.png",
+        "agent_animation": "assets/images/animation/astra_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Astra_icon.webp",
+        "agent_name": "Astra",
+        "agent_desc": "Astra, a brilliant strategist from Ghana, controls the battlefield with cosmic energy. Using her Astral Form, she places Stars to manipulate the fight, always staying ahead of her enemies' plans.",
+        "agent_realname": "Efia Danso",
+        "agent_home": "Accra, Ghana",
+        "agent_role": "Controller",
+        "agent_codename": "Rift",
+        "agent_skill": [
+            {"skill": "Gravity Well (C)", "logo": "assets/images/Abilities/Property 1=c-Astra_Gravity_Well.png", "desc": "Pulls players inward before exploding.", "video": "assets/images/videos/gravity_well.mp4"},
+            {"skill": "Nova Pulse (Q)", "logo": "assets/images/Abilities/Property 1=q-Astra_Nova_Pulse.png", "desc": "Detonates after a delay, concussing players.", "video": "assets/images/videos/nova_pulse.mp4"},
+            {"skill": "Nebula (E)", "logo": "assets/images/Abilities/Property 1=e-Astra_Nebula.png", "desc": "Creates a smoke or briefly reveals enemies.", "video": "assets/images/videos/nebula.mp4"},
+            {"skill": "Astral Form (X)", "logo": "assets/images/Abilities/Property 1=x-Astra_Astral_Form.png", "desc": "Enter Astral Form to place Stars and create a barrier.", "video": "assets/images/videos/cosmic_divide.mp4"}
+        ]
+    },
+    {
+        "agent_image": "assets/images/Agents/Breach_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Breach_Background_Text.png",
+        "agent_animation": "assets/images/animation/breach_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Breach_icon.webp",
+        "agent_name": "Breach",
+        "agent_desc": "Breach, a bionic powerhouse from Sweden, forces enemies out of position with seismic blasts. His disruptive abilities make pushing or defending an area a nightmare for opponents.",
+        "agent_realname": "Erik Torsten",
+        "agent_home": "Sweden",
+        "agent_role": "Initiator",
+        "agent_codename": "Lawless",
+        "agent_skill": [
+            {"skill": "Aftershock (C)", "logo": "assets/images/Abilities/Property 1=c-Breach_Aftershock.png", "desc": "Fires a slow-exploding blast through walls.", "video": "assets/images/videos/aftershock.mp4"},
+            {"skill": "Flashpoint (Q)", "logo": "assets/images/Abilities/Property 1=q-Breach_Flashpoint.png", "desc": "A blinding charge that activates through walls.", "video": "assets/images/videos/flashpoint.mp4"},
+            {"skill": "Fault Line (E)", "logo": "assets/images/Abilities/Property 1=e-Breach_Fault_Line.png", "desc": "Unleashes a seismic wave that stuns enemies.", "video": "assets/images/videos/fault_line.mp4"},
+            {"skill": "Rolling Thunder (X)", "logo": "assets/images/Abilities/Property 1=x-Breach_Rolling_Thunder.png", "desc": "A massive shockwave that concusses enemies in its path.", "video": "assets/images/videos/rolling_thunder.mp4"}
+        ]
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Brimstone_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Brimstone_Background_Text.png",
+        "agent_animation": "assets/images/animation/brimstone_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Brimstone_icon.webp",
+        "agent_name": "Brimstone",
+        "agent_desc": "Joining from the U.S.A., Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.",
+        "agent_realname": "Liam Byrne",
+        "agent_home": "Baltimore, Maryland, United States",
+        "agent_role": "Controller",
+        "agent_codename": "Sarge",
+       
+        "agent_skill":[
+            {"skill":"Incendiary", "logo":"assets/images/Abilities/Property 1=q-Brimstone_Incendiary.png", "desc":"Launches a grenade that spreads fire.", "video":"assets/images/videos/incendiary.mp4"},
+            {"skill":"Sky Smoke", "logo":"assets/images/Abilities/Property 1=e-Brimstone_Sky_Smoke.png", "desc":"Deploys long-lasting smokes from above.", "video":"assets/images/videos/sky_smoke.mp4"},
+            {"skill":"Stim Beacon", "logo":"assets/images/Abilities/Property 1=c-Brimstone_Stim_Beacon.png", "desc":"Boosts fire rate and speed of nearby allies.", "video":"assets/images/videos/stim_beacon.mp4"},
+            {"skill":"Orbital Strike", "logo":"assets/images/Abilities/Property 1=x-Brimstone_Orbital_Strike.png", "desc":"Calls down a high-damage laser strike.", "video":"assets/images/videos/orbital_strike.mp4"}
+            ]
+    
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Chamber_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Chamber_Background_Text.png",
+        "agent_animation": "assets/images/animation/chamber_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Chamber_icon.webp",
+        "agent_name": "Chamber",
+        "agent_desc": "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar.",
+        "agent_realname": "Vincent Fabron",
+        "agent_home": "France",
+        "agent_role": "Sentinel",
+        "agent_codename": "Deadeye",
+       
+        "agent_skill":[
+            {"skill":"Headhunter", "logo":"assets/images/Abilities/Property 1=q-Chamber_Headhunter.png", "desc":"Equips a high-precision pistol.", "video":"assets/images/videos/headhunter.mp4"},
+            {"skill":"Rendezvous", "logo":"assets/images/Abilities/Property 1=e-Chamber_Rendezvous.png", "desc":"Place teleport anchors to reposition.", "video":"assets/images/videos/rendezvous.mp4"},
+            {"skill":"Trademark", "logo":"assets/images/Abilities/Property 1=c-Chamber_Trademark.png", "desc":"Deploys a trap that slows enemies.", "video":"assets/images/videos/trademark.mp4"},
+            {"skill":"Tour De Force", "logo":"assets/images/Abilities/Property 1=x-Chamber_Tour_De_Force.png", "desc":"Summon a powerful sniper rifle that will kill an enemy. ", "video":"assets/images/videos/tour_de_force.mp4"}
+            ]
+    
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Reyna_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Reyna_Background_Text.png",
+        "agent_animation": "assets/images/animation/reyna_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Reyna_icon.webp",
+        "agent_name": "Reyna",
+        "agent_desc": "Reyna, a ruthless duelist from Mexico, thrives on combat. She consumes enemy souls to heal or become invulnerable, making her an unstoppable force in the right hands.",
+        "agent_realname": "Zyanya Mondragón",
+        "agent_home": "Mexico",
+        "agent_role": "Duelist",
+        "agent_codename": "Vampire",
+        "agent_skill": [
+            {"skill": "Leer (C)", "logo": "assets/images/Abilities/Property 1=c-Reyna_Leer.png", "desc": "Blinds enemies through walls.", "video": "assets/images/videos/leer.mp4"},
+            {"skill": "Devour (Q)", "logo": "assets/images/Abilities/Property 1=q-Reyna_Devour.png", "desc": "Heal from fallen enemies.", "video": "assets/images/videos/devour.mp4"},
+            {"skill": "Dismiss (E)", "logo": "assets/images/Abilities/Property 1=e-Reyna_Dismiss.png", "desc": "Become invulnerable for a short time.", "video": "assets/images/videos/dismiss.mp4"},
+            {"skill": "Empress (X)", "logo": "assets/images/Abilities/Property 1=x-Reyna_Empress.png", "desc": "Enter a frenzy mode with increased fire rate and healing.", "video": "assets/images/videos/empress.mp4"}
+        ]
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Cypher_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Cypher_Background_Text.png",
+        "agent_animation": "assets/images/animation/cypher_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Cypher_icon.webp",
+        "agent_name": "Cypher",
+        "agent_desc": "Cypher, a Moroccan surveillance expert, keeps a constant watch on his enemies. His gadgets track movements and reveal enemy positions, making him an invaluable asset for intel gathering.",
+        "agent_realname": "Amir El Amari",
+        "agent_home": "Morocco",
+        "agent_role": "Sentinel",
+        "agent_codename": "Aamir",
+        "agent_skill": [
+            {"skill": "Trapwire (C)", "logo": "assets/images/Abilities/Property 1=c-Cypher_Trapwire.png", "desc": "Deploys a tripwire that reveals and restrains enemies.", "video": "assets/images/videos/trapwire.mp4"},
+            {"skill": "Cyber Cage (Q)", "logo": "assets/images/Abilities/Property 1=q-Cypher_Cyber_Cage.png", "desc": "A remote-activated trap that slows enemies.", "video": "assets/images/videos/cyber_cage.mp4"},
+            {"skill": "Spycam (E)", "logo": "assets/images/Abilities/Property 1=e-Cypher_Spycam.png", "desc": "Places a camera to monitor areas and tag enemies.", "video": "assets/images/videos/spycam.mp4"},
+            {"skill": "Neural Theft (X)", "logo": "assets/images/Abilities/Property 1=x-Cypher_Neural_Theft.png", "desc": "Reveals all remaining enemies using a fallen enemy’s corpse.", "video": "assets/images/videos/neural_theft.mp4"}
+        ]
+    
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Kayo_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Kayo_Background_Text.png",
+        "agent_animation": "assets/images/animation/kayo_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Kayo_icon.webp",
+        "agent_name": "KAY/O",
+        "agent_desc": "KAY/O, a war machine built for suppression, disables enemy abilities and forces engagements on his own terms. His precision and power make him a deadly force in any fight.",
+        "agent_realname": "Unknown",
+        "agent_home": "Unknown",
+        "agent_role": "Initiator",
+        "agent_codename": "Machine",
+        "agent_skill": [
+            {"skill": "FRAG/ment (C)", "logo": "assets/images/Abilities/Property 1=c-Kayo_FRAGment.png", "desc": "A grenade that deals lethal damage at its center.", "video": "assets/images/videos/frag.mp4"},
+            {"skill": "FLASH/drive (Q)", "logo": "assets/images/Abilities/Property 1=q-Kayo_FLASHdrive.png", "desc": "A flash grenade that blinds enemies in its line of sight.", "video": "assets/images/videos/flash.mp4"},
+            {"skill": "ZERO/point (E)", "logo": "assets/images/Abilities/Property 1=e-Kayo_ZEROpoint.png", "desc": "Throws a knife that suppresses enemy abilities.", "video": "assets/images/videos/zero_point.mp4"},
+            {"skill": "NULL/cmd (X)", "logo": "assets/images/Abilities/Property 1=x-Kayo_NULLcmd.png", "desc": "Enters an enhanced mode, emitting suppression pulses and combat effectiveness.", "video": "assets/images/videos/null_cmd.mp4"}
+        ]
+    
+    },
+
+    {
+       "agent_image": "assets/images/Agents/Omen_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Omen_Background_Text.png",
+        "agent_animation": "assets/images/animation/omen_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Omen_icon.webp",
+        "agent_name": "Omen",
+        "agent_desc": "Omen, a shadowy figure with teleportation and vision disruption abilities, strikes fear into his enemies. He manipulates the battlefield, confusing opponents with smokes and sudden appearances.",
+        "agent_realname": "Unknown",
+        "agent_home": "Unknown",
+        "agent_role": "Controller",
+        "agent_codename": "Wraith",
+        "agent_skill": [
+            {"skill": "Shrouded Step (C)", "logo": "assets/images/Abilities/Property 1=c-Omen_Shrouded_Step.png", "desc": "Teleports to a short distance silently.", "video": "assets/images/videos/shrouded_step.mp4"},
+            {"skill": "Paranoia (Q)", "logo": "assets/images/Abilities/Property 1=q-Omen_Paranoia.png", "desc": "Sends out an energy blast that nearsights enemies.", "video": "assets/images/videos/paranoia.mp4"},
+            {"skill": "Dark Cover (E)", "logo": "assets/images/Abilities/Property 1=e-Omen_Dark_Cover.png", "desc": "Deploys long-lasting smokes that pass through walls.", "video": "assets/images/videos/dark_cover.mp4"},
+            {"skill": "From The Shadows (X)", "logo": "assets/images/Abilities/Property 1=x-Omen_From_The_Shadows.png", "desc": "Teleports anywhere on the map and briefly appears as a shadow.", "video": "assets/images/videos/from_the_shadows.mp4"}
+        ]
+    
+    },
+
+    {
+        "agent_image": "assets/images/Agents/Phoenix_artwork.png",
+        "agent_background": "assets/images/Agents-Wallpaper/Phoenix_Background_Text.png",
+        "agent_animation": "assets/images/animation/phoenix_animation.webm",
+        "agent_profile": "assets/images/Agents-Profiles/Phoenix_icon.webp",
+        "agent_name": "Phoenix",
+        "agent_desc": "Phoenix, a hot-headed duelist from the UK, manipulates fire to control fights. With self-healing flames and explosive abilities, he charges into battles with confidence.",
+        "agent_realname": "Jamie Adeyemi",
+        "agent_home": "United Kingdom",
+        "agent_role": "Duelist",
+        "agent_codename": "Firestarter",
+        "agent_skill": [
+            {"skill": "Blaze (C)", "logo": "assets/images/Abilities/Property 1=c-Phoenix_Blaze.png", "desc": "Creates a wall of fire that heals Phoenix and damages enemies.", "video": "assets/images/videos/blaze.mp4"},
+            {"skill": "Curveball (Q)", "logo": "assets/images/Abilities/Property 1=q-Phoenix_Curveball.png", "desc": "Throws a flashbang that curves left or right.", "video": "assets/images/videos/curveball.mp4"},
+            {"skill": "Hot Hands (E)", "logo": "assets/images/Abilities/Property 1=e-Phoenix_Hot_Hands.png", "desc": "Throws a fireball that heals Phoenix and burns enemies.", "video": "assets/images/videos/hot_hands.mp4"},
+            {"skill": "Run It Back (X)", "logo": "assets/images/Abilities/Property 1=x-Phoenix_Run_It_Back.png", "desc": "Marks a location and respawns there if eliminated.", "video": "assets/images/videos/run_it_back.mp4"}
+        ]
+    
+    }
+]
